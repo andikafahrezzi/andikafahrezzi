@@ -31,8 +31,9 @@
 
 <!-- Pinned Repositories -->
 <!-- GANTI DENGAN REPO ANDA YANG INGIN DITAMPILKAN -->
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=andikafahrezzi&repo=nama-repo-1&theme=dark)](https://github.com/andikafahrezzi/nama-repo-1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=andikafahrezzi&repo=nama-repo-2&theme=dark)](https://github.com/andikafahrezzi/nama-repo-2)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=andikafahrezzi&repo=nama-repo-1&theme=dark)](https://github.com/andikafahrezzi/addustedu)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=andikafahrezzi&repo=nama-repo-2&theme=dark)](https://github.com/andikafahrezzi/addustfood)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=andikafahrezzi&repo=nama-repo-2&theme=dark)](https://github.com/andikafahrezzi/addustflow)
 
 </div>
 
