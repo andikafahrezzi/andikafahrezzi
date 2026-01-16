@@ -58,8 +58,8 @@ const andika = {
 
 <!-- GitHub Stats Cards -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=andikafahrezzi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=andikafahrezzi&theme=react&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=FFFFFF" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andikafahrezzi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=andikafahrezzi&theme=react&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=FFFFFF" />
 </p>
 
 <!-- Activity Graph -->
@@ -69,7 +69,7 @@ const andika = {
 
 <!-- Language Stats -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andikafahrezzi&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=10" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andikafahrezzi&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=10" />
 </p>
 
 <!-- Animated Divider -->
@@ -138,10 +138,10 @@ const andika = {
 
 <div align="center">
   
-[![AddustEdu](https://github-readme-stats.vercel.app/api/pin/?username=andikafahrezzi&repo=addustedu&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)](https://github.com/andikafahrezzi/addustedu)
-[![AddustFood](https://github-readme-stats.vercel.app/api/pin/?username=andikafahrezzi&repo=addustfood&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)](https://github.com/andikafahrezzi/addustfood)
-[![AddustFlow](https://github-readme-stats.vercel.app/api/pin/?username=andikafahrezzi&repo=addustflow&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)](https://github.com/andikafahrezzi/addustflow)
-[![DSS-SAW](https://github-readme-stats.vercel.app/api/pin/?username=andikafahrezzi&repo=dss-saw&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)](https://github.com/andikafahrezzi/dss-saw)
+[![AddustEdu](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=andikafahrezzi&repo=addustedu&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)](https://github.com/andikafahrezzi/addustedu)
+[![AddustFood](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=andikafahrezzi&repo=addustfood&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)](https://github.com/andikafahrezzi/addustfood)
+[![AddustFlow](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=andikafahrezzi&repo=addustflow&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)](https://github.com/andikafahrezzi/addustflow)
+[![DSS-SAW](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=andikafahrezzi&repo=dss-saw&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)](https://github.com/andikafahrezzi/dss-saw)
 
 </div>
 
@@ -165,19 +165,19 @@ const andika = {
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/andikafahrezzi">
+  <a href="https://linkedin.com/in/GANTI_DENGAN_USERNAME_LINKEDIN_ANDA">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/andikafahrezzi">
+  <a href="https://twitter.com/GANTI_DENGAN_USERNAME_TWITTER_ANDA">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:andikafahrezzi@example.com">
+  <a href="mailto:GANTI_DENGAN_EMAIL_ANDA@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/andikafahrezzi">
+  <a href="https://instagram.com/GANTI_DENGAN_USERNAME_INSTAGRAM_ANDA">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://andikafahrezzi.dev">
+  <a href="https://GANTI_DENGAN_WEBSITE_PORTFOLIO_ANDA.com">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
