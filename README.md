@@ -1,127 +1,210 @@
 <div align="center">
 
-# 👨‍💻 **andikafahrezzi**
-*Software Developer & Tech Enthusiast*
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Andika%20Fahrezzi&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 <!-- Typing Animation -->
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF00&width=500&lines=Hello+World!;Welcome+to+my+GitHub;Let's+code+together!;Building+the+future...)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Creative+Problem+Solver+%F0%9F%92%A1;Tech+Enthusiast+%F0%9F%94%A5;Always+Learning+%F0%9F%93%9A;Building+The+Future+%F0%9F%8C%9F" alt="Typing SVG" />
+  </a>
+</p>
 
-<!-- Stats Cards -->
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=andikafahrezzi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=andikafahrezzi&theme=dark&hide_border=true&fire=00FF00&ring=00FF00" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<!-- Animated Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00F7FF?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lives-Jakarta%2C%20Indonesia-00FF85?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Available%20For%20Hire-FF6B6B?style=for-the-badge&logo=statuspal&logoColor=white" />
+</p>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andikafahrezzi&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
-
----
-
-## 🚀 **Featured Projects**
-
-<div align="center">
-
-<!-- Pinned Repositories -->
-<!-- GANTI DENGAN REPO ANDA YANG INGIN DITAMPILKAN -->
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=andikafahrezzi&repo=nama-repo-1&theme=dark)](https://github.com/andikafahrezzi/addustedu)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=andikafahrezzi&repo=nama-repo-2&theme=dark)](https://github.com/andikafahrezzi/addustfood)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=andikafahrezzi&repo=nama-repo-2&theme=dark)](https://github.com/andikafahrezzi/addustflow)
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
----
+## 🎯 About Me
 
-## 🌟 **GitHub Analytics**
+```javascript
+const andika = {
+    pronouns: "He" | "Him",
+    location: "Jakarta, Indonesia 🇮🇩",
+    code: ["JavaScript", "Python", "PHP", "Java", "HTML/CSS"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Vue", "Next.js"],
+            css: ["Tailwind", "Bootstrap", "Material-UI"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express"],
+            php: ["Laravel"],
+            python: ["Django", "Flask"]
+        },
+        databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
+        devOps: ["Docker", "Git", "GitHub Actions"],
+        tools: ["VS Code", "Postman", "Figma", "Notion"]
+    },
+    currentFocus: "Building scalable web applications 🚀",
+    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
+};
+```
 
 <div align="center">
 
-<!-- Contribution Graph -->
-<img src="https://activity-graph.herokuapp.com/graph?username=andikafahrezzi&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Analytics
+
+<!-- GitHub Stats Cards -->
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=andikafahrezzi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=andikafahrezzi&theme=react&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=FFFFFF" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=andikafahrezzi&custom_title=Contribution%20Graph&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area_color=00F7FF&title_color=FFFFFF&area=true&hide_border=true" />
+</p>
+
+<!-- Language Stats -->
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andikafahrezzi&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=10" />
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=andikafahrezzi&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 Featured Projects
+
+<div align="center">
+  
+[![AddustEdu](https://github-readme-stats.vercel.app/api/pin/?username=andikafahrezzi&repo=addustedu&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)](https://github.com/andikafahrezzi/addustedu)
+[![AddustFood](https://github-readme-stats.vercel.app/api/pin/?username=andikafahrezzi&repo=addustfood&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)](https://github.com/andikafahrezzi/addustfood)
+[![AddustFlow](https://github-readme-stats.vercel.app/api/pin/?username=andikafahrezzi&repo=addustflow&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)](https://github.com/andikafahrezzi/addustflow)
+[![DSS-SAW](https://github-readme-stats.vercel.app/api/pin/?username=andikafahrezzi&repo=dss-saw&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)](https://github.com/andikafahrezzi/dss-saw)
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andikafahrezzi&custom_title=Andika's%20Activity%20Graph&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area_color=00F7FF&title_color=FFFFFF&area=true&hide_border=true" />
+</p>
 
 <!-- Snake Animation -->
-![Contribution Snake](https://raw.githubusercontent.com/andikafahrezzi/andikafahrezzi/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andikafahrezzi/andikafahrezzi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
-</div>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+## 🤝 Connect With Me
 
-## 🛠️ **Tech Stack & Tools**
+<p align="center">
+  <a href="https://linkedin.com/in/andikafahrezzi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/andikafahrezzi">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:andikafahrezzi@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/andikafahrezzi">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://andikafahrezzi.dev">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
-<div align="center">
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### **Languages & Frameworks**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+## 📊 Profile Stats
 
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=andikafahrezzi&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/andikafahrezzi?style=for-the-badge&color=00F7FF&labelColor=0D1117&logo=github" />
+  <img src="https://img.shields.io/github/stars/andikafahrezzi?style=for-the-badge&color=FF6B6B&labelColor=0D1117&logo=github" />
+</p>
 
-</div>
+<!-- Random Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
----
-
-## 📊 **GitHub Trophies**
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=andikafahrezzi&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## 📈 **Recent Activity**
-
-<!--START_SECTION:activity-->
-<!-- Aktifitas GitHub akan muncul otomatis setelah setup workflow -->
-1. 🚀 Working on new projects
-2. 📚 Learning new technologies
-3. 🔧 Improving coding skills
-<!--END_SECTION:activity-->
-
-*Untuk aktivitas otomatis, setup GitHub Actions*
-
----
-
-## 🤝 **Connect With Me**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andikafahrezzi)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/andikafahrezzi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andikafahrezzi@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://andikafahrezzi.dev)
-
-</div>
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 ---
 
-## 👀 **Visitor Counter**
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=andikafahrezzi&color=00FF00&style=flat-square&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ **Star my repositories if you find them useful!**
-### 🔭 **Check out my projects below ↓**
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/andikafahrezzi">andikafahrezzi</a> - Let's build something amazing together! 🚀</i>
+</p>
 
 </div>
