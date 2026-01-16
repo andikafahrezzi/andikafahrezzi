@@ -18,7 +18,28 @@
 </p>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+## 🔥 Contribution Streak Statistics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andikafahrezzi&theme=radical&hide_border=true&background=0D1117" width="60%" />
+</p>
+
+<div align="center">
+
+### 📈 Detailed Contribution Breakdown
+
+| Metric | Value |
+|--------|-------|
+| 🔥 **Current Streak** | ![Current Streak](https://img.shields.io/badge/dynamic/json?color=FF6B6B&label=Days&query=%24.currentStreak.length&url=https%3A%2F%2Fstreak-stats.demolab.com%2Fapi%2Fstreak-stats%3Fuser%3Dandikafahrezzi&style=for-the-badge&logo=fire) |
+| 🏆 **Longest Streak** | ![Longest Streak](https://img.shields.io/badge/dynamic/json?color=00F7FF&label=Days&query=%24.longestStreak.length&url=https%3A%2F%2Fstreak-stats.demolab.com%2Fapi%2Fstreak-stats%3Fuser%3Dandikafahrezzi&style=for-the-badge&logo=chart-line) |
+| 📊 **Total Contributions** | ![Total Contributions](https://img.shields.io/badge/dynamic/json?color=00FF85&label=Count&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2Fapi%2Fstreak-stats%3Fuser%3Dandikafahrezzi&style=for-the-badge&logo=git) |
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 </div>
 
@@ -28,21 +49,20 @@
 const andika = {
     pronouns: "He" | "Him",
     location: "Jakarta, Indonesia 🇮🇩",
-    code: ["JavaScript", "Python", "PHP", "Java", "HTML/CSS"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["JavaScript" "PHP", "Java", "HTML/CSS"],
+    askMeAbout: ["web dev", "tech", 'network',
     technologies: {
         frontEnd: {
-            js: ["React", "Vue", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "Material-UI"]
+            js: ["React"],
+            css: ["Tailwind", "Bootstrap", "Sass"]
         },
         backEnd: {
             js: ["Node.js", "Express"],
             php: ["Laravel"],
-            python: ["Django", "Flask"]
         },
-        databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
-        devOps: ["Docker", "Git", "GitHub Actions"],
-        tools: ["VS Code", "Postman", "Figma", "Notion"]
+        databases: ["MongoDB", "MySQL", "SQLlite"],
+        devOps: ["Git", "GitHub Actions"],
+        tools: ["VS Code", "Postman"]
     },
     currentFocus: "Building scalable web applications 🚀",
     funFact: "I debug with console.log() and I'm not ashamed! 🐛"
@@ -62,6 +82,16 @@ const andika = {
   <img width="48%" src="https://streak-stats.demolab.com/?user=andikafahrezzi&theme=react&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=FFFFFF" />
 </p>
 
+<!-- Detailed Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andikafahrezzi&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=FFFFFF&show_icons=true" />
+</p>
+
+<!-- Contribution Stats with Total -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andikafahrezzi&theme=radical" />
+</p>
+
 <!-- Activity Graph -->
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=andikafahrezzi&custom_title=Contribution%20Graph&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area_color=00F7FF&title_color=FFFFFF&area=true&hide_border=true" />
@@ -73,7 +103,7 @@ const andika = {
 </p>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## 🛠️ Tech Stack & Tools
 
@@ -123,7 +153,7 @@ const andika = {
 </p>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## 🏆 GitHub Trophies
 
@@ -146,7 +176,7 @@ const andika = {
 </div>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## 📈 Contribution Graph
 
@@ -160,7 +190,7 @@ const andika = {
 </p>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## 🤝 Connect With Me
 
@@ -183,7 +213,7 @@ const andika = {
 </p>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## 📊 Profile Stats
 
