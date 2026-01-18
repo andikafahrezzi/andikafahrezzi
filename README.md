@@ -78,7 +78,7 @@ const andika = {
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andikafahrezzi&custom_title=Andika's%20Activity%20Graph&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area_color=00F7FF&title_color=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andikafahrezzi&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area_color=00F7FF&title_color=FFFFFF&area=true&hide_border=true" />
 </p>
 
 <!-- Language Stats -->
@@ -144,9 +144,6 @@ const andika = {
 [![DSS-SAW](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=andikafahrezzi&repo=dss-saw&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)](https://github.com/andikafahrezzi/dss-saw)
 
 </div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
