@@ -24,11 +24,7 @@
 
 ### 📈 Detailed Contribution Breakdown
 
-| Metric | Value |
-|--------|-------|
-| 🔥 **Current Streak** | ![Current Streak](https://img.shields.io/badge/dynamic/json?color=FF6B6B&label=Days&query=%24.currentStreak.length&url=https%3A%2F%2Fstreak-stats.demolab.com%2Fapi%2Fstreak-stats%3Fuser%3Dandikafahrezzi&style=for-the-badge&logo=fire) |
-| 🏆 **Longest Streak** | ![Longest Streak](https://img.shields.io/badge/dynamic/json?color=00F7FF&label=Days&query=%24.longestStreak.length&url=https%3A%2F%2Fstreak-stats.demolab.com%2Fapi%2Fstreak-stats%3Fuser%3Dandikafahrezzi&style=for-the-badge&logo=chart-line) |
-| 📊 **Total Contributions** | ![Total Contributions](https://img.shields.io/badge/dynamic/json?color=00FF85&label=Count&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2Fapi%2Fstreak-stats%3Fuser%3Dandikafahrezzi&style=for-the-badge&logo=git) |
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andikafahrezzi&theme=dark&hide_border=true)
 
 </div>
 
