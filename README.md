@@ -24,7 +24,8 @@
 
 ### 📈 Detailed Contribution Breakdown
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andikafahrezzi&theme=dark&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andikafahrezzi&theme=dark&hide_border=true)
+](https://github-readme-streak-stats.herokuapp.com/?user=andikafahrezzi&theme=dark&hide_border=true)
 
 </div>
 
