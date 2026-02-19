@@ -159,7 +159,7 @@ const andika = {
   <a href="https://instagram.com/andikafahrezzi">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://addust.dev">
+  <a href="https://andikafahrezzi.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
